@@ -86,9 +86,10 @@ namespace POS.DataAccess
 
             adapter.Fill(dsResults);
 
-
+           
 
             return dsResults.Tables[0];
         }
     }
 }
+//sqlaccess
