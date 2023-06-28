@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.DataAccess", "POS.DataA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Web_App", "API_Web_App\API_Web_App.csproj", "{58A74DA5-BB9D-403A-B7B7-4F7639CFFFEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A74DA5-BB9D-403A-B7B7-4F7639CFFFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A74DA5-BB9D-403A-B7B7-4F7639CFFFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A74DA5-BB9D-403A-B7B7-4F7639CFFFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A74DA5-BB9D-403A-B7B7-4F7639CFFFEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
