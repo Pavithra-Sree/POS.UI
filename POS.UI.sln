@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.UI", "POS.UI\POS.UI.csproj", "{D08CFD48-04CE-4E0F-933C-2205B1A17CDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.UI", "POS.UI\POS.UI.csproj", "{D08CFD48-04CE-4E0F-933C-2205B1A17CDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.BusinessRules", "POS.BusinessRules\POS.BusinessRules.csproj", "{EB3F36D6-F52D-4CDB-B8DF-5D6089B30170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.BusinessRules", "POS.BusinessRules\POS.BusinessRules.csproj", "{EB3F36D6-F52D-4CDB-B8DF-5D6089B30170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Model", "POS.Model\POS.Model.csproj", "{A079D36B-C308-4A77-835E-934DC0BFBF18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.Model", "POS.Model\POS.Model.csproj", "{A079D36B-C308-4A77-835E-934DC0BFBF18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.DataAccess", "POS.DataAccess\POS.DataAccess.csproj", "{FC2FEA81-9F80-4C81-B403-9CEEB5864F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.DataAccess", "POS.DataAccess\POS.DataAccess.csproj", "{FC2FEA81-9F80-4C81-B403-9CEEB5864F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FC2FEA81-9F80-4C81-B403-9CEEB5864F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC2FEA81-9F80-4C81-B403-9CEEB5864F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC2FEA81-9F80-4C81-B403-9CEEB5864F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCEBB2B-06BD-452A-A616-57C8297D9EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
